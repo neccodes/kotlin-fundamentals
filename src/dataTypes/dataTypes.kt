@@ -40,6 +40,5 @@ fun main(args: Array<String>) {
     // Char and Boolean
     val myCharValue: Char = 'C'
     val myBooleanValue: Boolean = true
-    println("my Char value = $myCharValue")
-    println("my boolean value = $myBooleanValue")
+    println("my Char value = $myCharValue and my boolean value is $myBooleanValue.")
 }
