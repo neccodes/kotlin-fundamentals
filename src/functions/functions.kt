@@ -23,3 +23,7 @@ fun getData(data: String) {
 fun showMessage() {
     println("There is no internet connexion!")
 }
+
+fun getMax(a: Int, b:Int): Int {
+    val max = if (a > b) a else b
+}
