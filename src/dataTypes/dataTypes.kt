@@ -1,7 +1,6 @@
 package dataTypes
 
 fun main(args: Array<String>) {
-
     println("Hello KotlinVille!")
     var userName: String = "Hatem"
     userName = "Karim"
