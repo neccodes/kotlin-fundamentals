@@ -1,4 +1,4 @@
-package functions
+package Functions
 
 fun main(args: Array<String>) {
     println(sum(5, 6, 7, 10, 5, 67, 8, 99))

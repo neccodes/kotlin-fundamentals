@@ -1,4 +1,4 @@
-package arrays
+package Arrays
 
 fun main(args: Array<String>) {
     val names: Array<String> = arrayOf("John", "Stephen", "Meghan")

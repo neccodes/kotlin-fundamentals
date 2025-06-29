@@ -1,4 +1,4 @@
-package functions
+package Functions
 
 fun main(args: Array<String>) {
     sayHello("Aaron", 35)

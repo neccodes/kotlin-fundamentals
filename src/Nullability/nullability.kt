@@ -1,4 +1,4 @@
-package nullability
+package Nullability
 
 fun main(args: Array<String>) {
     var text: String? = "Name"

@@ -1,4 +1,4 @@
-package loops
+package Loops
 
 fun main(args: Array<String>) {
     // general syntax

@@ -1,4 +1,4 @@
-package arrays
+package Arrays
 
 fun findMax(numbers: Array<Int>): Int {
     var max = numbers[0]
