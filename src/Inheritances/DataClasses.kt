@@ -1,3 +1,4 @@
+/*
 package Inheritances
 
 fun main(args: Array<String>) {
@@ -45,3 +46,4 @@ data class User(
         }
     }
 */
+ */
