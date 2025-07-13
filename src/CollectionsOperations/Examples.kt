@@ -1,4 +1,4 @@
-package Collections
+package CollectionsOperations
 
 fun main(args: Array<String>) {
     val fruits = listOf("Orange", "Pineapple", "Avocado", "Grapes", "Mangoes", "Lemon", "Pawpaw", "Potatoes")

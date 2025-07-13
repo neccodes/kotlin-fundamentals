@@ -1,4 +1,4 @@
-package Collections
+package CollectionsOperations
 
 fun main(args: Array<String>) {
     val numbers = listOf(6, 10, 14, 4, 100)
